@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\String_Class\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B82DEB-FB31-4B13-8599-564E2EBD2796}|String_Class\\String_Class.vcxproj|C:\\Users\\USER\\source\\repos\\String_Class\\String_Class\\clsString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1B82DEB-FB31-4B13-8599-564E2EBD2796}|String_Class\\String_Class.vcxproj|solutionrelative:String_Class\\clsString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B82DEB-FB31-4B13-8599-564E2EBD2796}|String_Class\\String_Class.vcxproj|C:\\Users\\USER\\source\\repos\\String_Class\\String_Class\\String_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1B82DEB-FB31-4B13-8599-564E2EBD2796}|String_Class\\String_Class.vcxproj|solutionrelative:String_Class\\String_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,40 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "String_Class.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\String_Class\\String_Class\\String_Class.cpp",
+              "RelativeDocumentMoniker": "String_Class\\String_Class.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\String_Class\\String_Class\\String_Class.cpp",
+              "RelativeToolTip": "String_Class\\String_Class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-09T15:43:57.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsString.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\String_Class\\String_Class\\clsString.cpp",
+              "RelativeDocumentMoniker": "String_Class\\clsString.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\String_Class\\String_Class\\clsString.cpp",
+              "RelativeToolTip": "String_Class\\clsString.cpp",
+              "ViewState": "AgIAAPABAAAAAAAAAAAcwAYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-09T15:44:01.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

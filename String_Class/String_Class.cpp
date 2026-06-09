@@ -1,7 +1,11 @@
 #include <iostream>
-
+using namespace std;
+#include "String_Library.h"
 int main()
 {
-    std::cout << "Hello World!\n";
+    
+    // Example
+    cout << clsString::CountCapitalLetters("Aaa");
+
 }
 

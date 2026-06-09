@@ -1,22 +1,28 @@
 ﻿  String_Class.cpp
-  clsString.cpp
 C:\Users\USER\source\repos\String_Class\String_Class\String_Library.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-  (compiling source file 'clsString.cpp')
+  (compiling source file 'String_Class.cpp')
   
 C:\Users\USER\source\repos\String_Class\String_Class\String_Library.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-  (compiling source file 'clsString.cpp')
+  (compiling source file 'String_Class.cpp')
   
 C:\Users\USER\source\repos\String_Class\String_Class\String_Library.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-  (compiling source file 'clsString.cpp')
+  (compiling source file 'String_Class.cpp')
   
 C:\Users\USER\source\repos\String_Class\String_Class\String_Library.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-  (compiling source file 'clsString.cpp')
+  (compiling source file 'String_Class.cpp')
   
 C:\Users\USER\source\repos\String_Class\String_Class\String_Library.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-  (compiling source file 'clsString.cpp')
+  (compiling source file 'String_Class.cpp')
   
 C:\Users\USER\source\repos\String_Class\String_Class\String_Library.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
-  (compiling source file 'clsString.cpp')
+  (compiling source file 'String_Class.cpp')
   
+  clsString.cpp
+C:\Users\USER\source\repos\String_Class\String_Class\clsString.cpp(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\String_Class\String_Class\clsString.cpp(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\String_Class\String_Class\clsString.cpp(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\String_Class\String_Class\clsString.cpp(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\String_Class\String_Class\clsString.cpp(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\String_Class\String_Class\clsString.cpp(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
   Generating Code...
   String_Class.vcxproj -> C:\Users\USER\source\repos\String_Class\x64\Debug\String_Class.exe
